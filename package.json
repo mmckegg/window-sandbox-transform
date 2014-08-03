@@ -1,0 +1,28 @@
+{
+  "name": "window-sandbox-transform",
+  "version": "0.0.0",
+  "description": "Sandbox properties added to window object then export the sandbox. Browserify transform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmckegg/window-sandbox-transform.git"
+  },
+  "keywords": [
+    "transform",
+    "browserify",
+    "sandbox",
+    "shim",
+    "commonjs",
+    "compatibility",
+    "convert"
+  ],
+  "author": "Matt McKegg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmckegg/window-sandbox-transform/issues"
+  },
+  "homepage": "https://github.com/mmckegg/window-sandbox-transform"
+}
